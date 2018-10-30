@@ -1,4 +1,4 @@
-# Sample-Appium-Framework
+# java-appium-framework-sample
 
 Este projeto é uma demonstração de framework de automação de testes mobile para Android e iOS utilizando o framework Appium e a tecnologia Java.
 
